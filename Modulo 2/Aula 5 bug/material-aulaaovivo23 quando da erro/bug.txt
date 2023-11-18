@@ -1,0 +1,1 @@
+copiar as linhas de codigo ate a linha 12 para ver o bug que ocorre. colocar 

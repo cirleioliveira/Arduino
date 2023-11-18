@@ -1,0 +1,16 @@
+void funcaoX(){
+	...
+}
+
+Void significa nada, nenum valor.
+pode ser equiparado ao tipo int, float. é utilizado apenas em funções
+
+Tipo de dado e utilizado em variaveis, classe, estrutura de dados
+
+
+**********
+PARÂMETROS com VALOR PADRÃO
+
+void funcaoX(int par1, float par2=3.1416){
+	...
+}
