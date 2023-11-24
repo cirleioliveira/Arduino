@@ -1,0 +1,5 @@
+Filtro Snubber para Proteção de Relés Contra o circuito
+
+Módulo Relé de Estado Sólido SSR 5V - 8 Canais
+
+Contator Mini Tripolar 16A 220V 1nf CWC016-01-30 V26 WEG
