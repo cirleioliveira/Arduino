@@ -20,9 +20,9 @@ void setup() {
 void loop() {
 
    //PWM
-   //largura = map(analogRead(A0), 0, 1023, 0, periodo); 
+  // largura = map(analogRead(A0), 0, 1023, 0, periodo); 
    
-   //analogWrite(3, map(analogRead(A0), 0, 1023, 0, 255) );
+  // analogWrite(3, map(analogRead(A0), 0, 1023, 0, 255) );
 
 
 
@@ -53,8 +53,8 @@ void loop() {
       momentoInicioCiclo = micros();
    } 
    
-
-   /*
+  
+  /* 
    int periodo = 100;  //milisegundos
    int largura = 20;
    
@@ -67,5 +67,5 @@ void loop() {
    if ( tempoCiclo >= periodo ) {
       momentoInicioCiclo = millis();
    } 
-   */  
+    */
 }
