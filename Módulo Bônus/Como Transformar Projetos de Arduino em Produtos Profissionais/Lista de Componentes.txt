@@ -1,0 +1,29 @@
+LISTA DE COMPONENTES PARA ARDUINO STANDALONE:
+1 - ATMega328P
+1 - Cristal 16Mhz
+2 - Capacitores Cerâmicos 22pF
+1 - Resistor 10 KOhms
+1 - Resistor 220 Ohms
+1 - LED Difuso 3 ou 5mm (Qualquer cor)
+1 - Chave de Contato (Pushbutton)
+
+
+
+LISTA DE COMPONENTES PARA CARGA DE SKETCH EM ARDUINO STANDALONE:
+1 - Conversor USB-TTL (com pino DTR)
+1 - Capacitor Cerâmico 1nF
+1 - Resistor 220 Ohms
+1 - LED Difuso 3 ou 5mm (Qualquer cor)
+
+-----------------------------------
+anotações minhas
+
+http://fritzing.org -> para desenhar uma placa (gratuito)
+
+outros softwares:
+* Proteus - a vantagem que simula o circuito que desenhar... desenha tbm
+
+para usar o chip para ser usado como arduino.
+bootloader para carregar o atmega 328
+pegar um arduino para carregar o atmega 328, no IDE: exemplo 'ArduinoISP' depois de carregador ir para menu 'progrmador - programador AVR - Arduino as ISP'... depois ir para menu 'progrmador - gerar bootloader'
+
