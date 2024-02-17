@@ -1,8 +1,0 @@
-Aula 02 - Como Rodar Multi-Tarefas no Arduino
-
-
-bibliote microcontroladores
-https://www.freertos.org/
-
-biblioteca
-https://github.com/feilipu/Arduino_FreeRTOS_Library
