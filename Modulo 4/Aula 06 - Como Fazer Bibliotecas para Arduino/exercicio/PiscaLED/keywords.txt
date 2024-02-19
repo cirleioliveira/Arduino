@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For PiscaLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) - Tipos de Dados
+#######################################
+
+PiscaLED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) - Métodos e Funções
+#######################################
+
+play	KEYWORD2
+stop	KEYWORD2
+loop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1) - Constantes
+#######################################
+
+[nome da constante ou definição 1] LITERAL1
+[nome da constante ou definição 2] LITERAL1
+[nome da constante ou definição n] LITERAL1
