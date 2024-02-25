@@ -1,0 +1,8 @@
+linha 197:
+char sn[10] = { 'A', 'I', 'R', 'J', 'A', 'A', 'S', 'R', 'T', 'I'};
+é para criptografar o codigo, pode colocar qualquer letra, não colocar letra minuscula e nem numeros
+
+linha 199: (String senhaCripto = "brincandoComIdeias";) qualquer senha, não colcoar numero
+
+linha 222: (int Memory_byte_address = 1532; ) - para senha de criptogradia, o valor da posição de escolha no "EPRON", valor maximo do EPRON é 2047
+EPRON é o componente para fazer a segurança do codigo
