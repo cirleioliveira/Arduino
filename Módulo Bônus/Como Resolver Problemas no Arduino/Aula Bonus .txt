@@ -1,0 +1,17 @@
+Aula Bonus 
+Como Resolver Problemas no Arduino
+
+Como evitar
+	testar individualmente;
+	quando copiar programas de outros, nao junta os 2 junto, entender a logica e escrever o seu programa.
+	organizar programação.
+	utilize comentarios
+
+Como resolver
+	Verificar as conexão do circuito
+	conexão invertida no circuito
+	verificar se carregou o codigo
+	verificar a conexão USB
+	placas que o windows nao reconhece
+	
+usar IDE para investigar o problema
