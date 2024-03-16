@@ -1,0 +1,20 @@
+Aula 01 - Como Tirar as Ideias do Papel e Instruções para o TCC
+
+1. Montar circuito (protoboard) - é um prototipo "fica feio msm"
+2. Programação
+	desenvolvimento da lógica
+	2.1. Escrever a logica em portugues de como vai funcionar;
+	2.2. Prever todas as possiveis situações que pode ocorrer. "prever que pode queimar"
+	2.3. Estruturar a lógica. ex. motor ligue. erc.
+	   Colocar condições (se senao..)
+	2.4. Organize por repetição
+	2.5. Traduzir para a liguagem de programação;
+	   Já precisa-se saber a ferramenta que irá utilizar
+	2.6 Carregar o programa e ir testando enquanto faz
+	2.7 Testar em partes - "debugar"
+
+3. Produção de placa PCB - usar o site flitz para fazer a placa. poder usar também o protheus.
+
+4. prototipo com a placa, pode não funcionar de primeira.
+
+5. Envólucro
